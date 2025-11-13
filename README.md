@@ -83,9 +83,9 @@ I specialize in building **responsive, fast, and pixel-perfect** websites using 
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=ahsan.elm.39@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/yourprofile" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+  <a href="https://wa.me/201014453260" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+</a>
   <a href="https://github.com/ahsanelm39-star" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
