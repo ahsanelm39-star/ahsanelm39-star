@@ -49,8 +49,8 @@ I specialize in building **responsive, fast, and pixel-perfect** websites using 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmedelmellayaty&show_icons=true&theme=tokyonight" alt="Ahmed's GitHub stats" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedelmellayaty&theme=tokyonight" alt="Ahmed's GitHub Streak" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api?username=ahsanelm39-star&show_icons=true&theme=tokyonight" alt="Ahmed's GitHub stats" width="48%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahsanelm39-star&theme=tokyonight" alt="Ahmed's GitHub Streak" width="48%">
 </p>
 
 ---
@@ -58,16 +58,16 @@ I specialize in building **responsive, fast, and pixel-perfect** websites using 
 ### 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://portfolio-two-gold-sub90fppqn.vercel.app/" target="_blank">
+  <a href="https://portfolio-two-gold-sub90fppqn.vercel.app/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=ahsan.elm.39@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=ahsan.elm.39@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/yourprofile" target="_blank">
+  <a href="https://linkedin.com/in/yourprofile" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/ahsanelm39-star" target="_blank">
+  <a href="https://github.com/ahsanelm39-star" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
