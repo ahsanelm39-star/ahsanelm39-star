@@ -10,7 +10,7 @@
 I'm a passionate **Front-End Developer** who loves crafting clean, modern, and user-friendly web experiences.  
 I specialize in building **responsive, fast, and pixel-perfect** websites using the latest web technologies.
 
-- 🔭 Currently working on improving my **Next.js** and **API integration** skills  
+- 🔭 Currently working on improving my **Type Script** skill
 - 🌱 Learning more about **performance optimization** and **UI/UX best practices**  
 - 💬 Ask me about **React, Next.js, Tailwind CSS, and web animations**  
 - ⚡ Fun fact: I believe good design is as important as good code 😎  
