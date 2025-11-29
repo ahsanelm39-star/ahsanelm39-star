@@ -68,9 +68,10 @@ I specialize in building **responsive, fast, and pixel-perfect** websites using 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahsanelm39-star&show_icons=true&theme=tokyonight" alt="Ahmed's GitHub stats" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahsanelm39-star&theme=tokyonight" alt="Ahmed's GitHub Streak" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api?username=ahsanelm39-star&show_icons=true&theme=tokyonight" width="48%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahsanelm39-star&theme=tokyonight" width="48%">
 </p>
+
 
 ---
 
