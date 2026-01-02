@@ -11,7 +11,7 @@
 I'm a **Front-End Developer** focused on building clean, modern, and user-friendly web interfaces.  
 I create **responsive, fast, and pixel-perfect** experiences using the latest front-end technologies.
 
-- 🔭 Currently improving my **TypeScript** skills  
+- 🔭 Currently improving my **Backend** skills  (Node JS , Express , MogoDB)
 - 🌱 Learning more about **performance optimization** & **UI/UX best practices**  
 - 💬 Ask me about **React, Next.js, Tailwind CSS, and animations**  
 - ⚡ I believe great design and clean code always go together
