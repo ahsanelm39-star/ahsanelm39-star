@@ -49,16 +49,6 @@ I create **responsive, fast, and pixel-perfect** experiences using the latest fr
 
 ---
 
-### 📂 Featured Projects
-
-- 🏠 **Real Estate Platform** — Responsive property listing website built with Next.js & Tailwind CSS  
-- 💼 **Personal Portfolio** — Showcasing my projects, technical skills, and experience  
-- 🧾 **SaaS Landing Page** — Clean and optimized marketing page with modern UI
-
-> 🔗 Check my pinned repositories for more!
-
----
-
 ### 📊 GitHub Stats
 
 <p align="center">
