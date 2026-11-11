@@ -61,10 +61,10 @@ I create **responsive, fast, and pixel-perfect** experiences using the latest fr
 ### 🌐 Connect With Me
 
 <p align="center"> 
-  <a href="mailto:ahsan.elm.39@gmail.com">
+  <a href="mailto:ah.dev.3@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://wa.me/201014453260">
+  <a href="https://wa.me/201097926288">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
   <a href="https://github.com/ahsanelm39-star">
